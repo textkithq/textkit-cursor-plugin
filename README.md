@@ -1,6 +1,6 @@
 # TextKit plugin for Cursor
 
-Adds the [TextKit](https://jointextkit.com) MCP server to Cursor. The agent can send and receive SMS, verify phone numbers, buy numbers, load contacts, build segments, and run broadcasts and automations on your TextKit account.
+Adds the [TextKit](https://jointextkit.com?ref=gh-cursor-plugin) MCP server to Cursor. The agent can send and receive SMS, verify phone numbers, buy numbers, load contacts, build segments, and run broadcasts and automations on your TextKit account.
 
 ## Setup
 
@@ -31,7 +31,7 @@ Without the plugin, add this to `.cursor/mcp.json` (project) or `~/.cursor/mcp.j
 }
 ```
 
-Get a key at [jointextkit.com/console](https://jointextkit.com/console).
+Get a key at [jointextkit.com/console](https://jointextkit.com/console?ref=gh-cursor-plugin).
 
 ## Contents
 
@@ -39,7 +39,7 @@ Get a key at [jointextkit.com/console](https://jointextkit.com/console).
 - `mcp.json`: the remote server `https://mcp.jointextkit.com` (streamable HTTP, OAuth sign-in).
 - `assets/logo.png`: logo.
 
-Docs: https://jointextkit.com/docs/mcp
+Docs: https://jointextkit.com/docs/mcp?ref=gh-cursor-plugin
 
 ## License
 
